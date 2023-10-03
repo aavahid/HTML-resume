@@ -21,3 +21,5 @@ The HTML structure for this web page is as follows:
 - **`assets/images/pp-image.png`**: The profile picture used in the resume.
 - **`public/my-hobbies.html`**: Link to a page showcasing Aghazada Vahid's hobbies.
 - **`public/contact.html`**: Link to a page for contacting Aghazada Vahid.
+  
+https://aavahid.github.io/HTML-resume/
